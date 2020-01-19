@@ -1,6 +1,7 @@
 <p align="center">
-  <a href="https://teachcode.madhacks.co"><img src="https://i.imgur.com/BuMZB6C.png" width="240" height="240"></a>
+  <a href="https://teachcode.madlabs.xyz/"><img src="https://i.imgur.com/BuMZB6C.png" width="240" height="240"></a>
   <h1 align="center">teachcode</h1>
+  <p align="center"> A tool to develop and improve a student’s programming skills by introducing the earliest lessons of coding. </p>
 </p>
 
 <p align="center">
@@ -10,16 +11,19 @@
 	<a href="https://github.com/madlabsinc/teachcode/pull/new"><img src="https://img.shields.io/badge/PRs%20-welcome-brightgreen.svg" alt="PRs Welcome" /></a>
 	<a href="https://github.com/prettier/prettier"><img src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg" alt="code style: prettier" /></a>
 	<a href="https://github.com/ulivz/awesome-vuepress"><img src="https://awesome.re/mentioned-badge.svg" alt="Mentioned in Awesome-VuePress" /></a>
-	<a href="https://github.com/madlabsinc/teachcode/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License: GPL v3" /></a>
-	
+	<a title="Chat on Telegram" href="https://t.me/teachcode_cli"><img src="https://img.shields.io/badge/chat-Telegram-blueviolet?logo=Telegram"/></a>
+	<a href="https://twitter.com/intent/follow?screen_name=teachcode_cli"><img src="https://img.shields.io/twitter/follow/teachcode_cli.svg?style=social&label=Follow%20@teachcode_cli" alt="Follow on Twitter"></a>
 </p>
 
 <p align="center">
 	<a href='https://www.buymeacoffee.com/jamesgeorge007' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png' border='0' alt='Buy Me a Coffee' /></a>
 </p>
 
+---
 
-> A tool to develop and improve a student’s programming skills by introducing the earliest lessons of coding.
+**Chat: _[Telegram](https://t.me/teachcode_cli)_**
+
+**Donate: _[PayPal](https://www.paypal.me/jamesgeorge007), [Patreon](https://www.patreon.com/jamesgeorge007)_**
 
 ## Installation
 

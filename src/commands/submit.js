@@ -106,10 +106,7 @@ const checkSolution = async (submittedFileContent, solutionFileContent) => {
 
       console.log();
       console.log(
-        chalk.green.bold(
-          "  Hurray you've done it!\n  Key to access the next task: " +
-            generatedKey,
-        ),
+        chalk.green.bold("  Hurray you've done it!\n  Move to the next task"),
       );
       console.log();
     } else {
@@ -293,7 +290,14 @@ const submitTask = async () => {
     });
   } else {
     exec(`node ${submittedFile}`, (err, result) => {
-      if (err) throw err;
+      if (err) {
+        console.log(
+          chalk.red.bold(
+            '  Oops there is something wrong with the syntax part!',
+          ),
+        );
+        process.exit(1);
+      }
       exec(`node ${solutionFile}`, (err, solution) => {
         if (err) throw err;
         validateSolution(submittedFile);
